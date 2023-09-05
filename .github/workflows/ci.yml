@@ -22,5 +22,10 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material
-      # - run: pip install 
+      # - run: pip install mkdocs-jupyter
+      
+      # C'est ici qu'il faut ajouter si besoin
+      # les instructions pour installer avec pip
+      # les autres plugins MkDocs ou extensions MarkDown
+      # souhaités pour le déploiement du site...
       - run: mkdocs gh-deploy --force
