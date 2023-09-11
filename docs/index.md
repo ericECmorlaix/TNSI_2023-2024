@@ -325,7 +325,7 @@ Liens utiles pour des révisions de l'épreuve écrite :
     - **Finir** le notebook des [recommandations de programmation appliquées à l'exercice série de notes](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Recommandations_de_programmation-Exercice_notes.ipynb){target=_blank} et le **rendre** par [mail] pour le 29/09 ; -->
 
 ***
-## Le 05/09 : (2h)
+## Le 05, 07 et 12/09 : (2h + 1h + 2h)
 
 === "CONTENU DE SÉANCE"
 
