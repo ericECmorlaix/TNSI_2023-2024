@@ -17,13 +17,9 @@ docs_dir: docs
 
 # Menu de navigation
 nav: 
-    - Cahier de texte : index.md
-  
-    - Ressources :
-        - GitHub + VSC: github.md
-        - Les notebook jupyter : notebook.md
+    - Cahier de texte : index.md  
+    - Ressources : ressources.md
 
-    - Présentation NSI : http://si.lycee.ecmorlaix.fr/nsi
     - 1NSI_2022-2023 : https://ericecmorlaix.github.io/1NSI_2022-2023/
     - TSI-NSI_2023-2024 : https://ericecmorlaix.github.io/TSI-NSI_2023-2024/       
        
