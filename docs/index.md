@@ -310,19 +310,19 @@ Liens utiles pour des révisions de l'épreuve écrite :
     - **Finir** le notebook des [recommandations de programmation appliquées à l'exercice série de notes](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Recommandations_de_programmation-Exercice_notes.ipynb){target=_blank} et le **rendre** par [mail] pour le 29/09 ;
 
     - **Poursuivre** l'introduction à la [Programmation Orientée Objet](./SD/POO-IntroductionProgrammationOrienteeObjet.ipynb) ;
-
+ -->
 ***
-## Le 27/09 (1h)
+## Le 14/09 (1h)
 
 === "CONTENU DE SÉANCE"
 
     - Retour sur le travail demandé ;
 
-    - [Recommandations de programmation appliquées à l'exercice série de notes](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Recommandations_de_programmation-Exercice_notes.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/LP/Recommandations_de_programmation-Exercice_notes.ipynb){ .md-button .md-button--primary} -> ==**expérimenter** les solutions du notebook en complétant le code et la documentation des fonctions partiellement données==
+    - [Recommandations de programmation appliquées à l'exercice série de notes](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/LP/Recommandations_de_programmation-Exercice_notes.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/LP/Recommandations_de_programmation-Exercice_notes.ipynb){ .md-button .md-button--primary} -> ==**expérimenter** les solutions du notebook en complétant le code et la documentation des fonctions partiellement données==
 
 === "TRAVAIL À FAIRE"
 
-    - **Finir** le notebook des [recommandations de programmation appliquées à l'exercice série de notes](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Recommandations_de_programmation-Exercice_notes.ipynb){target=_blank} et le **rendre** par [mail] pour le 29/09 ; -->
+    - **Finir** le notebook des [recommandations de programmation appliquées à l'exercice série de notes](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/LP/Recommandations_de_programmation-Exercice_notes.ipynb){target=_blank} et le **rendre** par [mail] pour le 19/09 ;
 
 ***
 ## Le 05, 07 et 12/09 : (2h + 1h + 2h)
