@@ -297,20 +297,20 @@ Liens utiles pour des révisions de l'épreuve écrite :
     - **Finir** l'introduction à la [Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023//SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){ .md-button .md-button--primary} ;
 
 
-## Le 29/09 (2h)
+
+ -->
+## Le 19/09 (2h)
 
 === "CONTENU DE SÉANCE"
 
-    - **Finir** le notebook des [recommandations de programmation appliquées à l'exercice série de notes](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Recommandations_de_programmation-Exercice_notes.ipynb){target=_blank} et le **rendre** par [mail] pour le 29/09 ;
+    - Retour sur le T.A.F. ;
 
-    - Introduction à la [Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023//SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){ .md-button .md-button--primary} ;
+    - Introduction à la [Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){ .md-button .md-button--primary} ;
 
 === "TRAVAIL À FAIRE"
 
-    - **Finir** le notebook des [recommandations de programmation appliquées à l'exercice série de notes](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Recommandations_de_programmation-Exercice_notes.ipynb){target=_blank} et le **rendre** par [mail] pour le 29/09 ;
+    - **Poursuivre** l'introduction à la [Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){target=_blank} ;
 
-    - **Poursuivre** l'introduction à la [Programmation Orientée Objet](./SD/POO-IntroductionProgrammationOrienteeObjet.ipynb) ;
- -->
 ***
 ## Le 14/09 (1h)
 
