@@ -299,7 +299,19 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
 
  -->
-## Le 19/09 (2h)
+## Le 26/09 (2h)
+
+=== "CONTENU DE SÉANCE"
+
+    - **Finir** la [Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){ .md-button .md-button--primary} et le **rendre** par [mail] ;
+
+    - **Faire** des [exercices pratique de Programmation Orientée Objet](https://e-nsi.forge.aeif.fr/pratique/tags/#7-poo){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    -  **Poursuivre** les [exercices pratique de Programmation Orientée Objet](https://e-nsi.forge.aeif.fr/pratique/tags/#7-poo){target=_blank}...
+
+## Les 19 et 21/09 (2h + 1h)
 
 === "CONTENU DE SÉANCE"
 
