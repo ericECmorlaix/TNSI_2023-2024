@@ -1,6 +1,9 @@
 
 ## [Présentation NSI](http://si.lycee.ecmorlaix.fr/nsi){target=_blank}
 
+
+## [e-nsi.forge.aeif.fr/pratique](https://e-nsi.forge.aeif.fr/pratique){target=_blank}
+
 ## Apprentissage de python
 
 - [futurecoder.io](https://fr.futurecoder.io){target=_blank}
