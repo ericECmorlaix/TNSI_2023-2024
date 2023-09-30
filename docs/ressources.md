@@ -2,7 +2,7 @@
 ## [Présentation NSI](http://si.lycee.ecmorlaix.fr/nsi){target=_blank}
 
 
-## [e-nsi.forge.aeif.fr/pratique](https://e-nsi.forge.aeif.fr/pratique){target=_blank}
+## [Exercices pratiques](https://e-nsi.forge.aeif.fr/pratique){target=_blank}
 
 ## Apprentissage de python
 
@@ -10,8 +10,8 @@
 
 ## Environnement Numérique de Travail en NSI
 
-- [Classeur sur GitHub avec VSC](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/github/){target=_blank}
-- [Les notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/notebook/){target=_blank}
+- [Classeur sur GitHub avec VSC](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank}
+- [Les notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank}
 
 ## Autres liens directs
 

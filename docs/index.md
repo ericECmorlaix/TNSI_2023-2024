@@ -343,7 +343,7 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
 === "CONTENU DE SÉANCE"
 
-    - Organiser [un classeur numérique pour la NSI sur GitHub](./github){:target="_blank"} -> ==**Reprendre** en main l'environnement web de Visual Studio Code depuis votre iPad et depuis un des PC du labo de SI pour gérer vos fichiers== ;
+    - Organiser [un classeur numérique pour la NSI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){:target="_blank"} -> ==**Reprendre** en main l'environnement web de Visual Studio Code depuis votre iPad et depuis un des PC du labo de SI pour gérer vos fichiers== ;
     - [Notion de paradigme de programmation](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/LP/Notion_de_Paradigmes-Introduction.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/LP/Notion_de_Paradigmes-Introduction.ipynb){ .md-button .md-button--primary} -> ==**regarder** rapidement le début de la vidéo et **faire** les activités de révisions associées==
 
     > **Revoir** les bases de la programmation en Python avec l'application en ligne [futurcoder](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Maintenir** un mémo personnel au format `.ipynb` ou `.md` résumant vos apprentissages algorithmiques et leur programmation en Python3== ;
