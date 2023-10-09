@@ -250,7 +250,7 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
 === "CONTENU DE SÉANCE"
 
-    - [Synthèse de Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/POO-SyntheseProgrammationOrienteeObjet.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/SD/POO-SyntheseProgrammationOrienteeObjet.ipynb){ .md-button .md-button--primary};
+    
 
     - Structure Linéaire de Données :
         - [Liste](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-Liste.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-Liste.ipynb){ .md-button .md-button--primary} ;
@@ -264,41 +264,44 @@ Liens utiles pour des révisions de l'épreuve écrite :
     - **Rendre** progressivement par [mail] le travail réalisé sur les notebook [POO](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/POO-SyntheseProgrammationOrienteeObjet.ipynb), [Liste](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-Liste.ipynb){target=_blank}, [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-Pile.ipynb){target=_blank}, [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/Structure_Lineaire-File.ipynb){target=_blank}...
 
 ***
-## Le 06/10 (2h)
+
+
+
+ -->
+## Les 10 et 12/10 (2h + 1h)
 
 === "CONTENU DE SÉANCE"
 
-    - Propositions de correction pour l'exercice [Série de notes](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Proposition_Exercice_Notes_Complet.ipynb) en programmation impérative et procédurale avec gestion des erreurs ->==Faire le travail de modularisation démandé== [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/LP/Proposition_Exercice_Notes_Complet.ipynb){ .md-button .md-button--primary}; 
+    - Propositions de correction pour l'exercice [Série de notes](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/LP/Proposition_Exercice_Notes_Complet.ipynb) en programmation impérative et procédurale avec gestion des erreurs ->==Faire le travail de modularisation démandé== [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/LP/Proposition_Exercice_Notes_Complet.ipynb){ .md-button .md-button--primary};
 
-    - **Finir** les activités d'introduction à la [Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){target=_blank} et transmettre ce notebook par mail ;​​   
+    - [Synthèse de Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/POO-SyntheseProgrammationOrienteeObjet.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/SD/POO-SyntheseProgrammationOrienteeObjet.ipynb){ .md-button .md-button--primary};
 
     - **Appliquer** la POO à la programmation de vos projets pour la Fête de la Science ;
 
 === "TRAVAIL À FAIRE"
 
-    - **Finir** les activités d'introduction à la [Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){target=_blank} et transmettre ce notebook par mail ;   
-
-
+    - **Poursuivre** les [exercices pratique de Programmation Orientée Objet](https://e-nsi.forge.aeif.fr/pratique/tags/#7-poo){target=_blank}...
+    - **S'entrainer avec Pyxel pour la Nuit du c0de** : [POOng-Le_TP_qui_fait_des_bonds](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/SD/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){ .md-button .md-button--primary} ;
+    - **Faire tomber la neige avec ipyCanvas** : [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Let_it_snow.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/SD/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
+    
 ***
-## Le 04/10 (1h)
+## Du 28/09 au 05/10 (1h + 2h + 1h)
 
 === "CONTENU DE SÉANCE"
 
-    - Info du [bac](./bac) ;
+    - Prise en main de la [programmation en MicroPython des Lego EV3](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/Lego/EV3/){target=_blank} ;
 
-    - Retour sur le travail demandé (quid de la modularité ?)  ;    
+    - Prise en main de la [programmation en MicroPython des ESP32](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/ESP/32/){target=_blank} ;
 
-    - **Poursuivre** l'introduction à la [Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023//SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){ .md-button .md-button--primary} ;
+    - **Appliquer** la POO à la programmation de vos projets pour la Fête de la Science ;
 
 === "TRAVAIL À FAIRE"
 
-    - **Finir** le notebook des [recommandations de programmation appliquées à l'exercice série de notes](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023/LP/Recommandations_de_programmation-Exercice_notes.ipynb){target=_blank} et le **rendre** par [mail] pour le 29/09 ;
+    - **Poursuivre** les [exercices pratique de Programmation Orientée Objet](https://e-nsi.forge.aeif.fr/pratique/tags/#7-poo){target=_blank}...
+    - **S'entrainer avec Pyxel pour la Nuit du c0de** : [POOng-Le_TP_qui_fait_des_bonds](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/SD/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){ .md-button .md-button--primary} ;
+    - **Faire tomber la neige avec ipyCanvas** : [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Let_it_snow.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/SD/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
 
-    - **Finir** l'introduction à la [Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2022-2023//SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2022-2023/SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){ .md-button .md-button--primary} ;
 
-
-
- -->
 ## Le 26/09 (2h)
 
 === "CONTENU DE SÉANCE"
