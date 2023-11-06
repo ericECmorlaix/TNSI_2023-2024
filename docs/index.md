@@ -248,7 +248,7 @@ Liens utiles pour des révisions de l'épreuve écrite :
 ***
 
  -->
-## Les 17 et 19/10 (2h + 1h)
+## Les 17, 19/10 et 07/11 (2h + 1h + 2h)
 
 === "CONTENU DE SÉANCE"    
 
