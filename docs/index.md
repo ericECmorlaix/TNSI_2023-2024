@@ -248,7 +248,24 @@ Liens utiles pour des révisions de l'épreuve écrite :
 ***
 
  -->
-## Les 17, 19/10 et 07/11 (2h + 1h + 2h)
+***
+
+## Le 14/11 (2h en autonomie)
+
+=== "CONTENU DE SÉANCE"    
+
+    - **Finaliser** et **transmettre** par [mail] les notebook [Liste](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Structure_Lineaire-Liste.ipynb){target=_blank}, [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Structure_Lineaire-Pile.ipynb){target=_blank} et [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Structure_Lineaire-File.ipynb){target=_blank} ;
+
+    - **Faire** [le devoir maison sur les Piles et Files](./SD/DM_Pile_File.pdf){target=_blank} ;
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** [le devoir maison sur les Piles et Files](./SD/DM_Pile_File.pdf){target=_blank} pour le jeudi 16/11 ;
+    - **Poursuivre** les [exercices pratique de Programmation Orientée Objet](https://e-nsi.forge.aeif.fr/pratique/tags/#7-poo){target=_blank}...
+
+***
+
+## Les 17, 19/10, 07 et 09/11 (2h + 1h + 2h + 1h)
 
 === "CONTENU DE SÉANCE"    
 
@@ -270,6 +287,7 @@ Liens utiles pour des révisions de l'épreuve écrite :
     - **Faire tomber la neige avec ipyCanvas** : [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Let_it_snow.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/SD/Let_it_snow.ipynb){ .md-button .md-button--primary} ;    
 
 ***
+
 ## Les 10 et 12/10 (2h + 1h)
 
 === "CONTENU DE SÉANCE"
