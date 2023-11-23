@@ -233,24 +233,42 @@ Liens utiles pour des révisions de l'épreuve écrite :
     - Synthèse de [Liste](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Lucien_Structure_Lineaire-Liste.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/SD/Lucien_Structure_Lineaire-Liste.ipynb){ .md-button .md-button--primary} ;
     
     - [Evaluation sur la POO et les listes chainées](./SD/Eval_POO_Liste.pdf){target=_blank}  le 20/10.
-    
-    - Structure Linéaire de Données :
-        - [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Structure_Lineaire-Pile.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/SD/Structure_Lineaire-Pile.ipynb){ .md-button .md-button--primary} ;
-        - [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Structure_Lineaire-File.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/SD/Structure_Lineaire-File.ipynb){ .md-button .md-button--primary} ;
 
 
-=== "TRAVAIL À FAIRE"
-    
-    - **Rendre** progressivement par [mail] le travail réalisé sur les notebook [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Structure_Lineaire-Pile.ipynb){target=_blank}, [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Structure_Lineaire-File.ipynb){target=_blank}...
-
-    - **Faire** sur copie le Devoir Maison [DM_Pile_File.pdf](./SD/DM_Pile_File.pdf){target=_blank} pour le 07/11 ;
-
-***
 
  -->
 ***
 
-## Le 14/11 (2h en autonomie)
+## Le 23/11
+
+=== "CONTENU DE SÉANCE"    
+
+    - **Découvrir** la [programmation récursive](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/LP/Recursif.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/LP/Recursif.ipynb){ .md-button .md-button--primary} ;
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Transmettre** par [mail] les notebook [Liste](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Structure_Lineaire-Liste.ipynb){target=_blank}, [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Structure_Lineaire-Pile.ipynb){target=_blank} et [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Structure_Lineaire-File.ipynb){target=_blank} ;
+    - **Poursuivre** les [exercices pratiques des tags POO, Pile, File, Récursivité, ...](https://e-nsi.forge.aeif.fr/pratique/tags/){target=_blank}...
+
+***
+
+
+## Le 21/11
+
+=== "CONTENU DE SÉANCE"    
+
+    - Correction des exercices [POO](./SD/DM_POO_Liste.pdf){target=_blank} et [Piles et Files](./SD/DM_Pile_File.pdf){target=_blank} des DM ;
+
+    - Devoir surveillé en POO et Pile/File ;
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Transmettre** par [mail] les notebook [Liste](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Structure_Lineaire-Liste.ipynb){target=_blank}, [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Structure_Lineaire-Pile.ipynb){target=_blank} et [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Structure_Lineaire-File.ipynb){target=_blank} ;
+    - **Poursuivre** les [exercices pratique de Programmation Orientée Objet](https://e-nsi.forge.aeif.fr/pratique/tags/#7-poo){target=_blank}...
+
+***
+
+## Le 14 et le 16/11 (2h en autonomie + 1h)
 
 === "CONTENU DE SÉANCE"    
 
