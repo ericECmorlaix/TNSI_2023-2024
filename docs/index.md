@@ -238,6 +238,20 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
  -->
 ***
+## Le 28/11
+
+=== "CONTENU DE SÉANCE"    
+
+    - **Finir** les activités du notebook de [programmation récursive](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/LP/Recursif.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/LP/Recursif.ipynb){ .md-button .md-button--primary} ;
+    - **Faire** [la partie écrite de l'application aux tours de Hanoï](./SD/Hanoi/HANOI_Ecrit)
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** [en devoir maison la partie écrite de l'application aux tours de Hanoï](./SD/Hanoi/HANOI_Ecrit.pdf){target=_blank} [:fontawesome-solid-download: Zip du document en MarkDown](./SD/Hanoi/Hanoi.zip){ .md-button .md-button--primary} ;
+    - **Transmettre** par [mail] les notebook [programmation récursive](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/LP/Recursif.ipynb){target=_blank}, [Liste](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Structure_Lineaire-Liste.ipynb){target=_blank}, [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Structure_Lineaire-Pile.ipynb){target=_blank} et [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Structure_Lineaire-File.ipynb){target=_blank} ;
+    - **Poursuivre** les [exercices pratiques des tags POO, Pile, File, Récursivité, ...](https://e-nsi.forge.aeif.fr/pratique/tags/){target=_blank}...
+
+***
 
 ## Le 23/11
 
