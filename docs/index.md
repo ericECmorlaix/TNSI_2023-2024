@@ -204,6 +204,25 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
 -->
 ***
+## Le 23/01
+
+=== "CONTENU DE SÉANCE"
+    
+    - [Correction SQL-Exercice_Bibliotheque](./BD/SQL-Exercice_Bibliotheque_COR.pdf){target=_blank} ;
+
+    - [Correction évaluation de programmation récursive](./LP/Correction_evaluation_recursif.pdf){target=_blank} ;
+
+    - Correction [Exercices sur le Routage](./MR/ExercicesRoutage.pdf) ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Reprendre** en main [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
+    - **Faire** les activités de [Fractals_trees_avec_ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/Fractals_trees_avec_ipycanvas.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/Fractals_trees_avec_ipycanvas.ipynb){ .md-button .md-button--primary} ;
+    - **Faire** les activités de [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/Let_it_snow.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
+    - **Faire** les activités de [L-Systeme](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/L-Systeme.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/L-Systeme.ipynb){ .md-button .md-button--primary} ; 
+
+
+***
 ## Du 16/01
 
 === "CONTENU DE SÉANCE"
