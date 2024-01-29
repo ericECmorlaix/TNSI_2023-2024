@@ -198,11 +198,34 @@ Liens utiles pour des révisions de l'épreuve écrite :
     - [Evaluation sur la POO et les listes chainées](./SD/Eval_POO_Liste.pdf){target=_blank}  le 20/10.
 
 
- - **Faire** les activités ​du notebook [ProtocolesDeRoutage](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/MR/ProtocolesDeRoutage.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/MR/ProtocolesDeRoutage.ipynb){ .md-button .md-button--primary} ;
-    - **appliquer** aux [Exercices sur le Routage](./MR/ExercicesRoutage.pdf)
+
 
 
 -->
+***
+## Du 30/01 
+
+=== "CONTENU DE SÉANCE"
+
+    - **Regarder** la vidéo [les arbres binaires de recherche](https://revoir.tv5monde.com/toutes-les-videos/culture/les-cours-lumni-lycee-cours-du-11-12-2020-3){target=_blank} ;
+
+    - **Lire** et **Faire** les activités ​du notebook [Structure_Arborescente](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Structure_Arborescente.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/SD/Structure_Arborescente.ipynb){ .md-button .md-button--primary} ;
+
+    - **faire** l'[exercice 1](./SD/Exercice_1-arbres.pdf){target=_blank} ;
+
+    - **faire** l'[exercice 2](./SD/Exercice_2-arbres.pdf){target=_blank} ; 
+
+     > **Revoir** les [dictionnaires](https://mcoilhac.forge.aeif.fr/dictionnaires/dictionnaires/01_quesako/){target=_blank} ;
+
+
+=== "TRAVAIL À FAIRE"
+    - **Poursuivre** les [exercices sur les bases de données](https://e-nsi.forge.aeif.fr/exercices_bdd/){target=_blank} et **rendre** vos travaux de mémo SQL ;
+    - **Reprendre** en main [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
+    - **Faire** les activités de [Fractals_trees_avec_ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/Fractals_trees_avec_ipycanvas.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/Fractals_trees_avec_ipycanvas.ipynb){ .md-button .md-button--primary} ;
+    - **Faire** les activités de [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/Let_it_snow.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
+    - **Faire** les activités de [L-Systeme](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/L-Systeme.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/L-Systeme.ipynb){ .md-button .md-button--primary} ;
+
+
 ***
 ## Le 23/01
 
