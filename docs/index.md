@@ -217,6 +217,8 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
      > **Revoir** les [dictionnaires](https://mcoilhac.forge.aeif.fr/dictionnaires/dictionnaires/01_quesako/){target=_blank} ;
 
+    - **faire** des [exercices pratiques sur les structures arborescentes](https://e-nsi.forge.aeif.fr/pratique/tags/#8-arbre) ;
+
 
 === "TRAVAIL À FAIRE"
     - **Poursuivre** les [exercices sur les bases de données](https://e-nsi.forge.aeif.fr/exercices_bdd/){target=_blank} et **rendre** vos travaux de mémo SQL ;
