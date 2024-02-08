@@ -203,6 +203,35 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
 -->
 ***
+
+## Du 08/02 :
+
+=== "CONTENU DE SÉANCE"
+
+    - Les graphes :
+
+        - **regarder** la vidéo suivante :
+        
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YYv2R1cCTa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        - **lire** le [cours](https://dav74.github.io/site_nsi_term/c9c/){target=_blank} et **faire** les [activités](https://dav74.github.io/site_nsi_term/c9a/){target=_blank} proposés par David ROCHE ;
+        - **faire** les activités du notebook [Graphes_avec_networkx](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Graphes_avec_networkx.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/SD/Graphes_avec_networkx.ipynb){ .md-button .md-button--primary} ;
+        - **faire** les activités du notebook [Graphes_avec_graphviz](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Graphes_avec_graphviz.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/SD/Graphes_avec_graphviz.ipynb){ .md-button .md-button--primary};
+        - **lire** le [cours](https://dav74.github.io/site_nsi_term/c10c/){target=_blank} et **faire** les [activités](https://dav74.github.io/site_nsi_term/c10a/){target=_blank} puis les [exercices](https://dav74.github.io/site_nsi_term/c10e/){target=_blank} proposés par David ROCHE ;
+        - **faire** les activités du notebook [Graphes_parcours_applications](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Graphes_parcours_applications.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/SD/Graphes_parcours_applications.ipynb){ .md-button .md-button--primary} ;
+
+       
+=== "TRAVAIL À FAIRE"
+    
+    - **faire** des [exercices pratiques sur les structures arborescentes](https://e-nsi.forge.aeif.fr/pratique/tags/#8-arbre) ;
+    - **Poursuivre** les [exercices sur les bases de données](https://e-nsi.forge.aeif.fr/exercices_bdd/){target=_blank} et **rendre** vos travaux de mémo SQL ;
+    - **Reprendre** en main [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
+    - **Faire** les activités de [Fractals_trees_avec_ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/Fractals_trees_avec_ipycanvas.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/Fractals_trees_avec_ipycanvas.ipynb){ .md-button .md-button--primary} ;
+    - **Faire** les activités de [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/Let_it_snow.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
+    - **Faire** les activités de [L-Systeme](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/L-Systeme.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/L-Systeme.ipynb){ .md-button .md-button--primary} ; 
+
+
+***
 ## Du 30/01 
 
 === "CONTENU DE SÉANCE"
@@ -211,9 +240,9 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
     - **Lire** et **Faire** les activités ​du notebook [Structure_Arborescente](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Structure_Arborescente.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/SD/Structure_Arborescente.ipynb){ .md-button .md-button--primary} ;
 
-    - **faire** l'[exercice 1](./SD/Exercice_1-arbres.pdf){target=_blank} ;
+    - **faire** l'[exercice 1](./SD/Exercice_1-arbres.pdf){target=_blank} -> [Correction-Exercice_1-arbres](./SD/Correction-Exercice_1-arbres.pdf){target=_blank} ;
 
-    - **faire** l'[exercice 2](./SD/Exercice_2-arbres.pdf){target=_blank} ; 
+    - **faire** l'[exercice 2](./SD/Exercice_2-arbres.pdf){target=_blank} -> [Correction-Exercice_2-arbres](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/SD/Correction-Exercice_2-arbres.ipynb){target=_blank} ; 
 
      > **Revoir** les [dictionnaires](https://mcoilhac.forge.aeif.fr/dictionnaires/dictionnaires/01_quesako/){target=_blank} ;
 
