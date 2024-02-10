@@ -1,8 +1,10 @@
 
-## [Présentation NSI](http://si.lycee.ecmorlaix.fr/nsi){target=_blank}
+## [Présentation NSI](https://ericecmorlaix.github.io/nsi){target=_blank}
 
 
 ## [Exercices pratiques](https://e-nsi.forge.aeif.fr/pratique){target=_blank}
+
+## [Exercices écrits](https://e-nsi.forge.aeif.fr/ecrit/){target=_blank}
 
 ## Apprentissage de python
 
