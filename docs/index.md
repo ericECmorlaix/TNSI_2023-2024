@@ -198,10 +198,14 @@ Liens utiles pour des révisions de l'épreuve écrite :
     - [Evaluation sur la POO et les listes chainées](./SD/Eval_POO_Liste.pdf){target=_blank}  le 20/10.
 
 
-
-
-
 -->
+***
+
+!!! info "Informations pour le bac"
+
+    - [Banque des sujets d'Epreuve Pratique 2024](https://cyclades.education.gouv.fr/delos/public/listPublicECE){target=_blank} ;
+    - [Nouveau site pour s'exercer à l'épreuve pratique](https://codex.forge.apps.education.fr/){target=_blank} sans oublier pour autant [l'ancien](https://e-nsi.forge.aeif.fr/pratique){target=_blank} ;
+    - [Et toujours pour se préparer à l'érit](https://e-nsi.forge.aeif.fr/ecrit/){target=_blank}.
 ***
 
 ## Du 08/02 :
