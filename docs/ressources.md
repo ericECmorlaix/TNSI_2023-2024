@@ -2,7 +2,10 @@
 ## [Présentation NSI](https://ericecmorlaix.github.io/nsi){target=_blank}
 
 
-## [Exercices pratiques](https://e-nsi.forge.aeif.fr/pratique){target=_blank}
+## Exercices pratiques
+
+- [Nouveau](https://codex.forge.apps.education.fr/){target=_blank} ;
+- [Ancien](https://e-nsi.forge.aeif.fr/pratique){target=_blank} ;
 
 ## [Exercices écrits](https://e-nsi.forge.aeif.fr/ecrit/){target=_blank}
 
@@ -23,3 +26,10 @@
 - [EC@M](https://www.ecmorlaix.fr/)
 - [CDI](https://cdi-lycee.ecmorlaix.fr)
 - [E.N.T. ECA.M](https://ec-morlaix.github.io/info/){target=_blank}
+
+
+<!-- 
+
+https://lewebpedagogique.com/dlaporte/
+
+ -->
