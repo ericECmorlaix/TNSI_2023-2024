@@ -213,7 +213,8 @@ Liens utiles pour des révisions de l'épreuve écrite :
 === "CONTENU DE SÉANCE"
     
     - **Faire** les activités ​du notebook [SoC_Processus](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/MR/SoC_Processus.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/MR/SoC_Processus.ipynb){ .md-button .md-button--primary} ;
-    - **appliquer** à l'[Exercice sur l'OS et les Processus](./MR/ExerciceProcessus.pdf)
+    - **appliquer** à l'exercice écrit [l'OS et les Processus](./MR/ExerciceProcessus.pdf) ;
+    - **appliquer** à l'exercice pratique [Temps d'exécution de processus](https://codex.forge.apps.education.fr/en_travaux/ordonnancement/){target=_blank} ;
   
 === "TRAVAIL À FAIRE"
 
