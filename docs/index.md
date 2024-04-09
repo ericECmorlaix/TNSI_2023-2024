@@ -207,7 +207,28 @@ Liens utiles pour des révisions de l'épreuve écrite :
     - [Banque des sujets d'Epreuve Pratique 2024](https://cyclades.education.gouv.fr/delos/public/listPublicECE){target=_blank} ;
     - [Nouveau site pour s'exercer à l'épreuve pratique](https://codex.forge.apps.education.fr/){target=_blank} sans oublier pour autant [l'ancien](https://e-nsi.forge.aeif.fr/pratique){target=_blank} ;
     - [Et toujours pour se préparer à l'érit](https://e-nsi.forge.aeif.fr/ecrit/){target=_blank}.
+
 ***
+
+## Du 09/04 
+
+=== "CONTENU DE SÉANCE"
+    
+    - **Faire** les activités ​du notebook [SoC_Processus](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/AL/Algorithmique-Complexite.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/AL/Algorithmique-Complexite.ipynb){ .md-button .md-button--primary} ;
+
+    - **Faire** les activités ​du notebook [SoC_Processus](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/AL/Algorithmique-Tri.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/AL/Algorithmique-Tri.ipynb){ .md-button .md-button--primary} ;
+
+    - **Préparer** une présentation à l'oral de vos sujets respectifs pour le 07/05 ;
+    
+  
+=== "TRAVAIL À FAIRE"
+
+   - S'entrainer (==conserver des traces de tous vos exercices dans des `note.md` et/ou des `notebook.ipynb`==) : 
+        - encore [sur les bases de données et le langage SQL](https://e-nsi.forge.aeif.fr/exercices_bdd/){target=_blank} ;
+        - à la programmation en Python pour l'[épreuve pratique](https://codex.forge.apps.education.fr/){target=_blank} et [au-delà](https://e-nsi.forge.aeif.fr/pratique){target=_blank} ;
+
+***
+
 ## Du 02/04 
 
 === "CONTENU DE SÉANCE"
