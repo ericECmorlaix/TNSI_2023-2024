@@ -214,9 +214,9 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
 === "CONTENU DE SÉANCE"
     
-    - **Faire** les activités ​du notebook [SoC_Processus](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/AL/Algorithmique-Complexite.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/AL/Algorithmique-Complexite.ipynb){ .md-button .md-button--primary} ;
+    - **Faire** les activités ​du notebook [Algorithmique-Complexite](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/AL/Algorithmique-Complexite.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/AL/Algorithmique-Complexite.ipynb){ .md-button .md-button--primary} ;
 
-    - **Faire** les activités ​du notebook [SoC_Processus](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/AL/Algorithmique-Tri.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/AL/Algorithmique-Tri.ipynb){ .md-button .md-button--primary} ;
+    - **Faire** les activités ​du notebook [Algorithmique-Tri](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2023-2024/AL/Algorithmique-Tri.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2023-2024/AL/Algorithmique-Tri.ipynb){ .md-button .md-button--primary} ;
 
     - **Préparer** une présentation à l'oral de vos sujets respectifs pour le 07/05 ;
     
