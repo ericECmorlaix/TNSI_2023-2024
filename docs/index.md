@@ -210,6 +210,26 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
 ***
 
+## Le 28/05 
+
+=== "CONTENU DE SÉANCE"
+    
+    - Correction du [BB2](./SU/BB2_NSI_23-24.pdf){target=_blank} ;
+
+    - **Revoir** la [notion de complexité et les algorithmes de tris](https://e-nsi.forge.aeif.fr/tris/){target=_blank} ;
+
+    - **Travailler** la notion de programmation dynamique à l'[écrit](./SU/bac_nsi_2024_sujet0b.pdf){target=_blank} et en [pratique](https://codex.forge.apps.education.fr/recherche/){target=_blank} ;
+    
+  
+=== "TRAVAIL À FAIRE"
+
+   - **S'entrainer** (==conserver des traces de tous vos exercices dans des `note.md` et/ou des `notebook.ipynb`==) : 
+        - encore [sur les bases de données et le langage SQL](https://e-nsi.forge.aeif.fr/exercices_bdd/){target=_blank} ;
+        - à la programmation en Python pour l'[épreuve pratique](https://codex.forge.apps.education.fr/){target=_blank} et [au-delà](https://e-nsi.forge.aeif.fr/pratique){target=_blank} ;
+        - pour l'[épreuve écrite](https://toutmonexam.fr/annee.php){target=_blank} : [24-NSIJ1AN1](./SU/spe_numerique_informatique_2024_amerique_nord_1_sujet_officiel.pdf){target=_blank} , [24-NSIJ2AN1](./SU/spe_numerique_informatique_2024_amerique_nord_2_sujet_officiel__1_.pdf){target=_blank}...
+
+***
+
 ## Du 09/04 
 
 === "CONTENU DE SÉANCE"
